@@ -1,0 +1,4 @@
+interface:
+  display_name: "Burn the Token"
+  short_description: "导入多条参考视频建立个人镜头库，持续检索更新，再逐镜制作与对照验收"
+  default_prompt: "使用 $burn-the-token，把我提供的参考视频加入可持续更新的个人镜头库，再按本次要求从库中选镜、制作并对照验收。"
