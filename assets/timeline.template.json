@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "precision": "estimated",
+  "version": null,
+  "composition": {
+    "width": null,
+    "height": null,
+    "fps": null,
+    "duration_frames": null
+  },
+  "review_range": {
+    "start_frame": null,
+    "end_frame": null
+  },
+  "assets": [],
+  "shots": [],
+  "audio_clips": [],
+  "intentional_silences": []
+}

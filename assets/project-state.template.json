@@ -1,0 +1,100 @@
+{
+  "schema_version": 3,
+  "project_id": null,
+  "stage": "reference_analysis",
+  "inputs": {
+    "reference_video": null,
+    "topic": null,
+    "account_positioning": null,
+    "target_duration_seconds": null,
+    "presenter_mode": null,
+    "existing_assets": [],
+    "final_audio": null,
+    "sfx_library_path": null,
+    "remotion_project_path": null,
+    "voice": null,
+    "reference_videos": []
+  },
+  "assumptions": [],
+  "aesthetic_baseline": {
+    "profile_id": null,
+    "profile_path": null
+  },
+  "missing_inputs": [],
+  "defaults": {
+    "preview_only_until_export_authorized": true,
+    "prefer_presenter_original_audio": true,
+    "preserve_primary_capture_spec": true,
+    "review_mode": "shot_by_shot"
+  },
+  "versions": {
+    "script": null,
+    "voice_timeline": null,
+    "visual_preview": null,
+    "audio_mix": null
+  },
+  "input_fingerprints": [],
+  "composition": {
+    "id": null,
+    "width": null,
+    "height": null,
+    "fps": null,
+    "duration_frames": null,
+    "spec_basis": null,
+    "primary_source": null,
+    "user_override_evidence": null
+  },
+  "preview": {
+    "url": null,
+    "version": null,
+    "start_frame": null,
+    "end_frame": null,
+    "service_verified": false,
+    "playback_verified": false,
+    "audio_verified": false,
+    "audio_render_verified": false
+  },
+  "approvals": {
+    "sample": null,
+    "full_preview": null,
+    "export": null,
+    "workflow_override": null
+  },
+  "audio_route": null,
+  "proxy_to_original": [],
+  "provider_jobs": [],
+  "artifacts": {},
+  "quality_status": "not_run",
+  "next_action": null,
+  "review_mode": "shot_by_shot",
+  "authorized_scope": null,
+  "reference_inventory": [],
+  "current_shot": null,
+  "visual_constraints": {},
+  "shots": {},
+  "feedback_records": [],
+  "batch_size": null,
+  "continuity": {
+    "mode": null,
+    "scope": null,
+    "user_quote": null,
+    "deferred_work": []
+  },
+  "protected_ranges": [],
+  "reverted_ranges": [],
+  "reference_usage": [],
+  "audio_preferences": {
+    "basis_user_quote": null,
+    "library_path": null,
+    "voice_track_db_range": null,
+    "preferred_voice_track_db_range": null,
+    "max_voice_track_db": null,
+    "sfx_track_db_range": null,
+    "emphasis_sfx_max_db": null
+  },
+  "library": {
+    "root": null,
+    "selected_video_ids": [],
+    "selected_shot_ids": []
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "shot_id": null,
+  "stage": "planned",
+  "voice_text": null,
+  "frame_range": [
+    null,
+    null
+  ],
+  "timing_basis": null,
+  "story_purpose": null,
+  "baseline_style_id": null,
+  "reference_effect_ids": [],
+  "constraints": {},
+  "reference_evidence": [
+    {
+      "reference_id": null,
+      "source_path": null,
+      "source_range_seconds": [
+        null,
+        null
+      ],
+      "observation_kind": null,
+      "evidence_paths": [],
+      "observed": null,
+      "uncertainty": null
+    }
+  ],
+  "presentation_mapping": [
+    {
+      "dimension": "material",
+      "reference_ids": [],
+      "observed_basis": null,
+      "original_content_adaptation": null,
+      "not_applicable_reason": null
+    },
+    {
+      "dimension": "background",
+      "reference_ids": [],
+      "observed_basis": null,
+      "original_content_adaptation": null,
+      "not_applicable_reason": null
+    },
+    {
+      "dimension": "composition_depth",
+      "reference_ids": [],
+      "observed_basis": null,
+      "original_content_adaptation": null,
+      "not_applicable_reason": null
+    },
+    {
+      "dimension": "type_captions",
+      "reference_ids": [],
+      "observed_basis": null,
+      "original_content_adaptation": null,
+      "not_applicable_reason": null
+    },
+    {
+      "dimension": "type_depth_subject_occlusion",
+      "reference_ids": [],
+      "observed_basis": null,
+      "original_content_adaptation": null,
+      "not_applicable_reason": null
+    },
+    {
+      "dimension": "entrance_establishment",
+      "reference_ids": [],
+      "observed_basis": null,
+      "original_content_adaptation": null,
+      "not_applicable_reason": null
+    },
+    {
+      "dimension": "camera_emphasis",
+      "reference_ids": [],
+      "observed_basis": null,
+      "original_content_adaptation": null,
+      "not_applicable_reason": null
+    },
+    {
+      "dimension": "exit_continuity",
+      "reference_ids": [],
+      "observed_basis": null,
+      "original_content_adaptation": null,
+      "not_applicable_reason": null
+    },
+    {
+      "dimension": "sound",
+      "reference_ids": [],
+      "observed_basis": null,
+      "original_content_adaptation": null,
+      "not_applicable_reason": null
+    }
+  ],
+  "motion_beats": [
+    {
+      "frame_range": [
+        null,
+        null
+      ],
+      "voice_trigger": null,
+      "reference_ids": [],
+      "camera_action": null,
+      "subject_action": null,
+      "text_action": null,
+      "purpose": null
+    }
+  ],
+  "artifacts": {
+    "static_sample": null,
+    "comparison_page": null,
+    "prompt_files": [],
+    "layers": [],
+    "single_motion_preview": null,
+    "combined_preview": null,
+    "qa_frames": []
+  },
+  "versions": {
+    "static": null,
+    "motion": null
+  },
+  "approvals": {
+    "static": null,
+    "motion": null,
+    "continuity": null
+  },
+  "verification": {
+    "static_visual": "not_run",
+    "motion_playback": "not_run",
+    "adjacent_playback": "not_run",
+    "audio_listening": "not_run",
+    "reference_comparison": "not_run",
+    "source_preservation": "not_run"
+  },
+  "feedback": [],
+  "next_action": null,
+  "reuse_check": {
+    "status": "not_run",
+    "previous_shot_ids": [],
+    "same_reference_range": null,
+    "same_presentation_combination": null,
+    "intentional_recurrence_reason": null
+  },
+  "paired_stage_evidence": [],
+  "detail_findings": [],
+  "comparison_review": {
+    "status": "not_run",
+    "rubric_id": null,
+    "rubric_weights": null,
+    "scores": [],
+    "reviewed_points": null,
+    "reviewed_max_points": null,
+    "unreviewed_dimensions": [],
+    "critical_findings": [],
+    "prioritized_fixes": [],
+    "recheck_evidence": []
+  },
+  "sound_design": {
+    "cue_sheet": null,
+    "reference_listening_status": "not_run",
+    "library_audition_status": "not_run",
+    "mix_listening_status": "not_run",
+    "technical_check_status": "not_run"
+  },
+  "library_reference": {
+    "shot_id": null,
+    "revision": null,
+    "video_id": null,
+    "source_range_seconds": [
+      null,
+      null
+    ]
+  }
+}

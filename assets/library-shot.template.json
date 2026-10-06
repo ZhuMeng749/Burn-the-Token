@@ -1,0 +1,24 @@
+{
+  "title": "",
+  "purpose": "",
+  "tags": [],
+  "recipe": {
+    "subject": null,
+    "composition": null,
+    "typography_and_depth": null,
+    "materials": null,
+    "subject_occlusion": null,
+    "lighting_and_focus": null,
+    "motion_beats": [],
+    "entrance_and_exit": null,
+    "sound": null,
+    "implementation_hypotheses": []
+  },
+  "observations": {
+    "static": {"status": "not_run", "evidence": []},
+    "motion": {"status": "not_run", "evidence": []},
+    "audio": {"status": "not_run", "evidence": []}
+  },
+  "notes": "",
+  "status": "active"
+}
